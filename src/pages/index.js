@@ -6,7 +6,7 @@ export default function Profile() {
     username: "@ᠲᠡᠮᠦᠯᠦᠨ ᠰ",
     bio: "Suragch",
     avatar: "/kobe.jpg", // place an image in /public folder
-    location: "Ulaanabaater",
+    location: "IKH HUREE",
     followers: 1200,
     following: 300,
   };
